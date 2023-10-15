@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
    // スラッシュになってしまう(´;ω;｀)
-    cout << "\\" << endl;
+    cout << '\\' << endl;
     //全角にしてみた ー＞ 表示された..これではないことは確かなんだよなー,,
     //cout << "￥"<< endl;
 
